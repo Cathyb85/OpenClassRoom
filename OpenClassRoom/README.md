@@ -1,2 +1,0 @@
-# OpenClassRoom
-Exercice
